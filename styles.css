@@ -1,7 +1,22 @@
 .container{
 	width:1100px;
+	background-color:#CBD6CB;
 }
 .imageContainer{
-	width:650px;
+	width:350px;
 	height:400px;
+	margin:40px
+}
+.first{
+	width:200px;
+}
+.middle{
+	width:600px;
+	text-align:center;
+}
+.last{
+	width:200px;	
+}
+.website{
+	font-weight: bold;
 }
